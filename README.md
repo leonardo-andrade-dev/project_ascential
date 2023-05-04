@@ -1,6 +1,6 @@
 # project_ascential
   
-  Criação de um processo para realização da extração,transformação e carga dos dados, o objetivo do projeto é efetuar a ingestão dos dados, armazenamento     dos arquivos, tratamento dos dados e cálculo das métricas, com base nos dados de lojistas, fabricantes, produtos comercializados etc.
+  Criação de um processo para realização da extração, transformação e carga dos dados, o objetivo do projeto é efetuar a ingestão dos dados, armazenamento   dos arquivos, tratamento dos dados e cálculo das métricas, com base nos dados de lojistas, fabricantes, produtos comercializados etc.
 
 # Quais linguagens foram utilizadas no desenvolvimento?
 
